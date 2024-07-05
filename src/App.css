@@ -1,0 +1,16 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  padding: 20px;
+  background-color: #e1d8d8;
+  color: #fff;
+  min-height: 100vh;
+}
+
+h2, h5 {
+  color: #fff;
+}
+
+button {
+  margin-top: 10px;
+}
